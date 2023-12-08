@@ -25,12 +25,21 @@ Selected path for packet from src: 2 dest: 4 size: 7 deadline: 22 is:  (2, 3, 5,
 ````
 The paths visualized:
 Packet 1
+
 ![path_packet_1](https://github.com/adithyapranav/Approximation-Algorithm-for-Packet-Routing-Problem/assets/30080510/9447e6a5-93dd-4d51-8c29-ce7558ac4f84)
+
 Packet 2
+
 ![path_packet_2](https://github.com/adithyapranav/Approximation-Algorithm-for-Packet-Routing-Problem/assets/30080510/051ad8e1-14bf-480a-b1d7-4dacb11350f2)
+
 Packet 3
+
 ![path_packet_3](https://github.com/adithyapranav/Approximation-Algorithm-for-Packet-Routing-Problem/assets/30080510/6d1ab705-a1ef-42e4-a459-8067837eec37)
+
 Packet 4
+
 ![path_packet_4](https://github.com/adithyapranav/Approximation-Algorithm-for-Packet-Routing-Problem/assets/30080510/e9d9413f-1f63-4764-801a-79242f487feb)
-Packet 5ṭ
+
+Packet 5
+
 ![path_packet_5](https://github.com/adithyapranav/Approximation-Algorithm-for-Packet-Routing-Problem/assets/30080510/171617ec-e187-487b-b8ed-907cd1adae84)
